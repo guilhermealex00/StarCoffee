@@ -99,5 +99,17 @@ a {
     display: flex;
 }
 
-
-
+.rodape{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    box-shadow: 0 -10px 10px var(--preto);
+}
+.icones{
+    display: flex;
+    justify-content: center;
+    
+}
+.icones > img{
+    margin: 5px;
+}
